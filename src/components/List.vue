@@ -175,7 +175,7 @@ a {
 }
 
 .bg-change-trans {
-  transition: .5s;
+  transition: background-color .5s;
 }
 
 input[type='checkbox'] {
