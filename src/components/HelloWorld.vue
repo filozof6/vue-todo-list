@@ -32,11 +32,7 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
-  data () {
-    return {
-    }
-  }
+  name: 'HelloWorld'
 }
 </script>
 

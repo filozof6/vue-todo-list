@@ -47,8 +47,6 @@
 
 <script>
 import * as moment from "moment";
-import Vue from 'vue'
-import { setTimeout } from 'timers';
 export default {
   name: "List",
   data: function(event) {
